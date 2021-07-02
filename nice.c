@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("Nice!!");
+    printf("Stupid\n");
+    return 0;
 }
